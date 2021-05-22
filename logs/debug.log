@@ -1,0 +1,4 @@
+2021-05-22 11:55:03 [http-nio-8761-exec-1] DEBUG c.e.api.ServiceEndpointController -
+                hello
+2021-05-22 11:55:03 [http-nio-8761-exec-1] ERROR c.e.api.ServiceEndpointController -
+                error
